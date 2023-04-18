@@ -3,7 +3,7 @@ title: Home
 content_blocks:
    -
       _bookshop_name: home/hero
-      title: Beautiful email campaigns
+      title: Beautiful email!
       description: >-
          With Sendit, you can quickly create beautiful rich emails that capture
          a reader's attention, engage them, and convert them into customers.
@@ -37,6 +37,14 @@ content_blocks:
             suffix: +
             text: Active users and growing
    -
+      _bookshop_name: global/faq
+      title: Have
+      title_suffix: Questions!
+      description: >-
+         We’re always here to help. Here are the most frequently asked
+         questions.
+      faq: []
+   -
       _bookshop_name: home/video
       image_path: /images/video/video-thum.jpg
       videoUrl: https://vimeo.com/45830194
@@ -54,8 +62,8 @@ content_blocks:
       image_path: /images/feature/feature-card-one.png
       title: Email Campaign in one minute
       description: >-
-         Send an email campaign with one click, in just minutes. Automate
-         your emails and content, while keeping the human touch.
+         Send an email campaign with one click, in just minutes. Automate your
+         emails and content, while keeping the human touch.
       btn:
          link: /sign-up
          text: Try This Free
@@ -65,8 +73,8 @@ content_blocks:
       image_path: /images/feature/feature-card-two.png
       title: See every Lead in one Place
       description: >-
-         Sales analytics and automation made simple: see every sales lead
-         in one place, regardless of where it came from.
+         Sales analytics and automation made simple: see every sales lead in one
+         place, regardless of where it came from.
       btn:
          link: /sign-up
          text: Try This Free
@@ -77,8 +85,8 @@ content_blocks:
       title: 100% free uploads
       description: >-
          SendIt is used by everyone from small businesses to fortune 500
-         companies. Browse our collection of email marketing templates and
-         start sending beautiful emails in minutes.
+         companies. Browse our collection of email marketing templates and start
+         sending beautiful emails in minutes.
       btn:
          link: /sign-up
          text: Try This Free
