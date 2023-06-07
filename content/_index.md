@@ -3,7 +3,7 @@ title: Home
 content_blocks:
    -
       _bookshop_name: home/hero
-      title: Beautiful email!
+      title: Beautiful email campaigns!
       description: >-
          With Sendit, you can quickly create beautiful rich emails that capture
          a reader's attention, engage them, and convert them into customers.
@@ -11,6 +11,19 @@ content_blocks:
       link:
          text: Try This Free
          url: /sign-up
+   -
+      _bookshop_name: global/faq
+      title: Have
+      title_suffix: Questions?
+      description: >-
+         We’re always here to help. Here are the most frequently asked
+         questions.
+      faq:
+         -
+            title: Is there a maximum numbers of emails I can send each month?
+            description: >-
+               No, the prices include unlimited emails. Send to your heart’s
+               content.
    -
       _bookshop_name: global/faq
       title: Have
