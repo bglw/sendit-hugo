@@ -13,7 +13,11 @@ When you send an email campaign, you expect it to reach your readers, right? But
 
 ### Use an ESP
 
-Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
+Use an email service provider (ESP) that has been tested by third-party email certification services. T
+
+{{< tweet user="CloudCannon" id="1646167871121137667" >}}
+
+his ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
 
 Be aware of what's normal for your target customers' inboxes. If you're sending out emails to people who are on Gmail and Yahoo accounts, then there's little chance they'll get blocked because their addresses haven't been flagged as spam yet. But if you're reaching out to people with Outlook or AOL addresses, there's a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you're testing different types of addresses before sending out any mass marketing campaigns.
 
