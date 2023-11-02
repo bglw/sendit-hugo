@@ -44,7 +44,7 @@ content_blocks:
                content.
    -
       _bookshop_name: global/counter
-      title: Scale your
+      title: Scale
       title_suffix: Business
       description: >-
          We have an extensive library of pre-written sales emails, proven
@@ -58,15 +58,24 @@ content_blocks:
             text: Venture capital raised
          -
             number: 2016
+            suffix: m
+            prefix: $
             text: Established in
          -
             number: 40
             suffix: +
+            prefix: $
             text: Amazing team members
          -
             number: 4322
             suffix: +
+            prefix: $
             text: Active users and growing
+         -
+            number: 200
+            suffix: m
+            prefix: $
+            text: Venture capital raised
    -
       _bookshop_name: global/faq
       title: Have
@@ -83,11 +92,11 @@ content_blocks:
       _bookshop_name: global/header
       title: 'Sendit '
       title_suffix: Features
-      no_top_pad: true
       description: >-
          Our platform offers the most advanced features including automated
          email content creation, dynamic personalization, and customer
          segmentation.
+      no_top_pad: true
    -
       _bookshop_name: global/feature
       image_path: /images/feature/feature-card-one.png
