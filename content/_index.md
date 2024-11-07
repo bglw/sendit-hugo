@@ -3,7 +3,7 @@ title: Home
 content_blocks:
    -
       _bookshop_name: home/hero
-      title: Beautiful email
+      title: Tom can still make a coffee if you want
       description: >-
          With Sendit, you can quickly create beautiful rich emails that capture
          a reader's attention, engage them, and convert them into customers.
